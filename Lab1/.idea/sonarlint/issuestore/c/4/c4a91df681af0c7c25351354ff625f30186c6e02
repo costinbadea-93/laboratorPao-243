@@ -1,0 +1,31 @@
+
+Gsquid:S1481"0Remove this unused "charWrapper" local variable.(¯§ì›
+]squid:S1854"ARemove this useless assignment to local variable "doubleWrapper".(§ê™Ñúÿÿÿÿ
+Osquid:S1481"3Remove this unused "floatPrimitive" local variable.(Øå£Öüÿÿÿÿ
+^squid:S1854"BRemove this useless assignment to local variable "floatPrimitive".(Øå£Öüÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(“È áýÿÿÿÿ
+^squid:S1854	"BRemove this useless assignment to local variable "shortPrimitive".(ƒ¢ÄÉûÿÿÿÿ
+Zsquid:S1854"CRemove this useless assignment to local variable "doublePrimitive".( á¿Á
+]squid:S1854"ARemove this useless assignment to local variable "bytePrimitive".(¶Ó·¦úÿÿÿÿ
+Nsquid:S1481
+"2Remove this unused "longPrimitive" local variable.(Ìã«Ãÿÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ê’Æ±
+Nsquid:S1481"2Remove this unused "bytePrimitive" local variable.(¶Ó·¦úÿÿÿÿ
+Msquid:S1481"1Remove this unused "floatWrapper" local variable.(¿ø±¬ÿÿÿÿÿ
+Osquid:S1481	"3Remove this unused "shortPrimitive" local variable.(ƒ¢ÄÉûÿÿÿÿ
+Vsquid:S1854"?Remove this useless assignment to local variable "byteWrapper".(å°†Ó
+Isquid:S1481"2Remove this unused "charPrimitive" local variable.(ˆïè‚
+Nsquid:S1481"2Remove this unused "doubleWrapper" local variable.(§ê™Ñúÿÿÿÿ
+Esquid:S1481".Remove this unused "stringVal" local variable.(Ùž¯Ã
+Ksquid:S1481"4Remove this unused "doublePrimitive" local variable.( á¿Á
+\squid:S1854"@Remove this useless assignment to local variable "floatWrapper".(¿ø±¬ÿÿÿÿÿ
+Vsquid:S1854"?Remove this useless assignment to local variable "charWrapper".(¯§ì›
+Tsquid:S1854"=Remove this useless assignment to local variable "stringVal".(Ùž¯Ã
+[squid:S1854"?Remove this useless assignment to local variable "longWrapper".(¬Ô…„þÿÿÿÿ
+Xsquid:S1854"ARemove this useless assignment to local variable "charPrimitive".(ˆïè‚
+Gsquid:S1481"0Remove this unused "byteWrapper" local variable.(å°†Ó
+]squid:S1854
+"ARemove this useless assignment to local variable "longPrimitive".(Ìã«Ãÿÿÿÿÿ
+Lsquid:S1481"0Remove this unused "longWrapper" local variable.(¬Ô…„þÿÿÿÿ

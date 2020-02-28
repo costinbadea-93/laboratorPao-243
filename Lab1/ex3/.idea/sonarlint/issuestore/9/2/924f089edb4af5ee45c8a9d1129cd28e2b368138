@@ -1,0 +1,7 @@
+
+csquid:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Ðˆ„æ8í†‘Õˆ.
+_squid:S1075"ARefactor your code to get this URI from a customizable parameter.(óÛÞÈ8Ä¾’Õˆ.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‹Éÿ¼8Ñ¾ŒÕˆ.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÈßÞÎ8Ñ¾ŒÕˆ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Š¤›¢8•á›Õˆ.
