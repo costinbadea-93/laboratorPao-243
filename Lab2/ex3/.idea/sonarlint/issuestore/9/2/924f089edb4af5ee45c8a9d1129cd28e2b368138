@@ -1,0 +1,7 @@
+
+^squid:S1854	";Remove this useless assignment to local variable "myArray".(έςÿÿÿÿÿÿ8„£ρτ.
+Osquid:S1481	",Remove this unused "myArray" local variable.(έςÿÿÿÿÿÿ8„£ρτ.
+esquid:UselessImportCheck":Remove this unused import 'com.sun.deploy.util.ArrayUtil'.(°γ‹8£ªυ.
+Ssquid:S1191"5Use classes from the Java API instead of Sun classes.(°γ‹8£ªυ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(τµ…ύωÿÿÿÿ8Ί ίτ.
