@@ -1,0 +1,47 @@
+Fiecare student va lucra la un proiect individual. Proiectul este structurat în mai multe etape. Condi?ia de punctare a proiectelor este aceea ca acestea sa nu prezinte erori de compilare ?i sa implementeze cerin?ele date. 
+
+
+
+Terme de predare:
+- Etapa I: 
+- Etapa II: 
+- Etapa III: 
+
+Etapa I:
+Definirea sistemului: 
+sa se creeze o lista pe baza temei alese cu cel pu?in 10 ac?iuni/interogari care se pot face în cadrul sistemului ?i o lista cu cel pu?in 8 tipuri de obiecte. 
+Implementare: sa se implementeze în limbajul Java o aplica?ie pe baza celor definite la punctul. Aplica?ia va con?ine: 
+clase simple cu atribute private / protected ?i metode de acces
+ cel pu?in o 2 colec?ii diferite capabile sa gestioneze obiectele definite anterior (List, Set, Map, etc.) dintre care cel pu?in una sa fie sortata.
+utilizare mo?tenire pentru crearea de clase adi?ionale ?i utilizarea lor în cadrul colec?iilor;
+ cel pu?in o clasa serviciu care sa expuna opera?iile 
+o clasa main din care sunt facute apeluri catre servicii 
+        
+    
+Etapa II:
+Extinde?i proiectul din prima etapa prin realizarea persistentei utilizând fi?iere.
+se vor realiza fi?iere de tip csv pentru cel pu?in 4 dintre clasele definite in prima etapa
+se vor realiza servicii generice pentru scrierea ?i citirea din fi?iere
+la pornirea programului se vor încarca datele din fi?iere utilizând serviciile
+Realizarea unui serviciu de audit
+se va realiza un serviciu care sa scrie într-un fi?ier de tip CSV de fiecare data când este executata una dintre ac?iunile descrise in prima etapa. Structura fi?ierului: nume_actiune, timestamp
+
+Etapa III:
+ Înlocui?i serviciile realizate în etapa a II-a cu servicii care sa asigure persistenta utilizând baza de date folosind JDBC.
+ sa se realizeze servicii care sa expuna opera?ii de tip create, read, update, delete pentru cel pu?in 4 dintre clasele definite 
+Sa se realizeze o interfa?a grafica în care sa fie expuse cel pu?in 5 dintre ac?iunile definite ini?ial. Interfa?a va avea cel pu?in 2 ecrane diferite care sa permita navigarea intre ele. Se va utiliza Swing sau JSP pentru realizarea interfe?ei grafice.         Utilizarea altor framework-uri în afara celor men?ionate mai sus trebuie discutata în prealabil cu mine.
+Se va adauga în fi?ierul exportat de serviciul de audit înca o coloana: thread_name
+    
+
+Alte teme sugerate:
+-structura unei organiza?ii (angaja?i, rela?ii ierarhice, salarii)
+-o agenda personala (categorii, întâlniri, sarcini)
+-activitatea unei companii de transport (ora?e, legaturi, ma?ini, rute)
+-credite (client, credit, rate)
+-cabinet medical (pacien?i, medici, re?ete)
+-admitere (candidat, facultate, examen)
+-vanzare de bilete online(client, eveniment, locatie)
+-software casa de marcat(metoda de plata, client, produs)
+-rezervare loc în sala de spectacol (spectacol, loc, client)
+-activitatea unei case de schimb valutar (valute, istoric curs, clien?i, tranzac?ii)
+-sistem de gestiune fi?iere (utilizatori, tip fisier, grup, tip utilizator)
