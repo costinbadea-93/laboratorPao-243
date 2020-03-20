@@ -1,0 +1,5 @@
+
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(À8§¨Ë¶.
+Vsquid:S1854"8Remove this useless assignment to local variable "key1".(½ó£Å8™÷Õ¶.
+Gsquid:S1481")Remove this unused "key1" local variable.(½ó£Å8™÷Õ¶.

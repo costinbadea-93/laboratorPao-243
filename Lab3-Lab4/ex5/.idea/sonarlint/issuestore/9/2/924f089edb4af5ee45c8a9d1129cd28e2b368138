@@ -1,0 +1,11 @@
+
+Tsquid:S1854"7Remove this useless assignment to local variable "str".(‹á•8åÍ§¶.
+V
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(…ò£—8†³±¶.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒÔ«şÿÿÿÿ8°Á®¶.
+}squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨¸¤8®»«¶.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÄÅøÉ8»Ô²¶.
+}squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ï¶Ş€8»Ô²¶.

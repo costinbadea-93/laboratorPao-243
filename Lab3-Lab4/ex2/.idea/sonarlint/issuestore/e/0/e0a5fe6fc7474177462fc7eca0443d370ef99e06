@@ -1,0 +1,7 @@
+
+esquid:S00112	"FDefine and throw a dedicated exception instead of using a generic one.(ñ±—â8öÚî´.
+dsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(İ¾Û„ÿÿÿÿÿ8øöé´.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ8Õ“ñ´.
+csquid:S2095
+"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Ğˆ„æ8ü±í´.
