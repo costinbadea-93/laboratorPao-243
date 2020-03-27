@@ -1,0 +1,10 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(î½¯Ë8ôÆ¶Ù‘.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(”åáøÿÿÿÿ8á³Ù‘.
+V
+squid:S106""9Replace this use of System.out or System.err by a logger.(ªí÷8ÞôÀÙ‘.
+[
+squid:S1063"9Replace this use of System.out or System.err by a logger.(ÂÒÔºûÿÿÿÿ8èúÍÙ‘.
+V
+squid:S106."9Replace this use of System.out or System.err by a logger.(ñé–š8«óÇÙ‘.

@@ -1,0 +1,22 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÄºÎ”8ä¿¸Ø‘.
+squid:S1192"cDefine a constant instead of duplicating this literal "==================================" 4 times.(ÄºÎ”8‹˜»Ø‘.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯ô¢ô8ÍªºØ‘.
+Jsquid:S1612",Replace this lambda with a method reference.(Ã¸ùµ8ö•½Ø‘.
+Jsquid:S1612",Replace this lambda with a method reference.(Ã¸ùµ8µäÙ‘.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ş»²ç8¾–·Ø‘.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÄºÎ”8‹˜»Ø‘.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÄºÎ”8‡®ŒÙ‘.
+nsquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(…¶ ‡ùÿÿÿÿ8¼ÛÙ‘.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ã¸ùµ8µäÙ‘.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ã¸ùµ8ö•½Ø‘.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÄºÎ”8ÍªºØ‘.
+isquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(´æèó8ëáÔØ‘.

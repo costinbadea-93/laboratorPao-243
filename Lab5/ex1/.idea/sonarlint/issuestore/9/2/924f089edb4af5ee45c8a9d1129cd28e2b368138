@@ -1,0 +1,8 @@
+
+Ysquid:S1854";Remove this useless assignment to local variable "myArray".( ú¡°8Â±×‘.
+bsquid:UselessImportCheck"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8¶æÅ×‘.
+Jsquid:S1481",Remove this unused "myArray" local variable.( ú¡°8Àñ±×‘.
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB8­Å·×‘.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹º…ÿûÿÿÿÿ8ª«»×‘.
