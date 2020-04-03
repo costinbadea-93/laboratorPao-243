@@ -1,0 +1,12 @@
+
+V
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ºØÌ8çñ”ö“.
+gsquid:S2147!"DCombine this catch with the one at line 31, which has the same body.(È¶ƒÈşÿÿÿÿ8âŠö“.
+Fsquid:S1148"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8ì¨ÿõ“.
+Fsquid:S1148""#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8âŠö“.
+Xsquid:UnusedPrivateMethod8"'Remove this unused private "m2" method.(ÇÎÅÜøÿÿÿÿ8Ú÷öõ“.
+nsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8Ü¢–ö“.
+Fsquid:S1148 "#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8îºö“.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ºØÌ8™«”ö“.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8ê™—ö“.
