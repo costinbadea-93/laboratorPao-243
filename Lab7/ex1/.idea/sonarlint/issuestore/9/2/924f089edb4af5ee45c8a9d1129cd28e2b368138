@@ -1,0 +1,14 @@
+
+isquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.( ²³¼8ˆî‘––.
+ˆsquid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(üª«ûÿÿÿÿ8Ì³Ô•–.
+nsquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(ê¯Þ®ûÿÿÿÿ8ö÷þ•–.
+Jsquid:S1481)"'Remove this unused "l7" local variable.(òåÃºüÿÿÿÿ8ç‹ù•–.
+nsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÇäÇö8Ì³Ô•–.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¦õ€´úÿÿÿÿ8¦Õô•–.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(µ‰ú8Ý´ô•–.
+[
+squid:S106I"9Replace this use of System.out or System.err by a logger.(›¨ÿ„ûÿÿÿÿ8æÆ‘––.
+Ysquid:S1854)"6Remove this useless assignment to local variable "l7".(òåÃºüÿÿÿÿ8ç‹ù•–.
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ô‘í@8¦Õô•–.
+[
+squid:S106L"9Replace this use of System.out or System.err by a logger.(ù·…ºøÿÿÿÿ8ñÙ•––.

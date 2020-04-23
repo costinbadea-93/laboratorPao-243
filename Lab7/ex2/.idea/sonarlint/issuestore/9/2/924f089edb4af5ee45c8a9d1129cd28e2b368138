@@ -1,0 +1,22 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Í©¸®ùÿÿÿÿ8ß™Ê––.
+Osquid:S1612",Replace this lambda with a method reference.(¯€ç™úÿÿÿÿ8Ã²Ó––.
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(î™‘áúÿÿÿÿ8‡ Ú––.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(´÷Ğƒ8ß™Ê––.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Â·íÂÿÿÿÿÿ8ó®É––.
+ˆsquid:S1192"eDefine a constant instead of duplicating this literal "Report was generated with success!!!" 3 times.(î™‘áúÿÿÿÿ8‡ Ú––.
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.(î™‘áúÿÿÿÿ8‡ Ú––.
+W"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.( ×œ8®¨Î––.
+Osquid:S1612$",Replace this lambda with a method reference.(¯€ç™úÿÿÿÿ8¨ÎÕ––.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Òÿ¾÷8¨óÈ––.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğøø£8ùåî––.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(î™‘áúÿÿÿÿ8ûèÙ––.
+Osquid:S1612)",Replace this lambda with a method reference.(¯€ç™úÿÿÿÿ8Ó¼×––.
