@@ -1,0 +1,23 @@
+
+T	java:S106&"9Replace this use of System.out or System.err by a logger.(ÓË8ëå…Øš.
+h
+java:S1192 "FDefine a constant instead of duplicating this literal "Hello" 4 times.(Ù”«Íúÿÿÿÿ8üáı×š.
+0
+java:S1220""Move this file to a named package.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(§‡Ùÿûÿÿÿÿ8¨İÈ×š.
+N
+java:S1612",Replace this lambda with a method reference.(§‡Ùÿûÿÿÿÿ8¨İÈ×š.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(É³ñâøÿÿÿÿ8‰ªà×š.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŸëËøÿÿÿÿ8Ç¤Ğ×š.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(Ù”«Íúÿÿÿÿ8ñ²î×š.
+x
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'BinaryOperator<String>'(ĞÖ´18•ß×š.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ëíğ¹8È¦Ø×š.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ËãÃ”ÿÿÿÿÿ8õøæ×š.
+}
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(ôãûÄøÿÿÿÿ8€ÅÖ×š.
+Q
+java:S1611"/Remove the parentheses around the "p" parameter(ôãûÄøÿÿÿÿ8€ÅÖ×š.
+K
+java:S1611"/Remove the parentheses around the "p" parameter(óÈ¨K8ñ³å×š.
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(ÜÈ£û8ˆÓû×š.

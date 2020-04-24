@@ -1,0 +1,10 @@
+
+W
+java:S1854"5Remove this useless assignment to local variable "o".(„‹’Ûøÿÿÿÿ8“™ÎØš.
+H
+java:S1481"&Remove this unused "o" local variable.(„‹’Ûøÿÿÿÿ8“™ÎØš.
+0
+java:S1220""Move this file to a named package.
+]	java:S125"<This block of commented-out lines of code should be removed.(Ë¢Éùşÿÿÿÿ8Ö¸êØš.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ†§ÿÿÿÿÿ8İîŞØš.
+X	java:S125"<This block of commented-out lines of code should be removed.(àğäò8ıÂâØš.
