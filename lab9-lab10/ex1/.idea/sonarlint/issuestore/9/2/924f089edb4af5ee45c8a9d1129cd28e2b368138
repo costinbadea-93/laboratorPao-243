@@ -1,0 +1,51 @@
+
+Z	java:S106S"9Replace this use of System.out or System.err by a logger.(·êÜöüÿÿÿÿ8ı²†˜Ÿ.
+U	java:S106y"9Replace this use of System.out or System.err by a logger.(‹“ÇØ8®½Ä˜Ÿ.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(·»ÛÚùÿÿÿÿ8²áº—Ÿ.
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(›ñ©¿ûÿÿÿÿ8ùºÆ—Ÿ.
+Z	java:S106b"9Replace this use of System.out or System.err by a logger.(›ñ©¿ûÿÿÿÿ8Ÿ…¥˜Ÿ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›ñ©¿ûÿÿÿÿ8ƒ¹Ş˜Ÿ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›ñ©¿ûÿÿÿÿ8ÍŒ¶—Ÿ.
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(€ßóÏÿÿÿÿÿ8ÁÅ–˜Ÿ.
+U	java:S106m"9Replace this use of System.out or System.err by a logger.(­‚™í8æÂ±˜Ÿ.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(›ñ©¿ûÿÿÿÿ8²áº—Ÿ.
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(ïÈ¼Ÿüÿÿÿÿ8úê—Ÿ.
+[	java:S106†"9Replace this use of System.out or System.err by a logger.(›ñ©¿ûÿÿÿÿ8¾ÓŞ˜Ÿ.
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(›ñ©¿ûÿÿÿÿ8à½ÿ—Ÿ.
+Z	java:S106r"9Replace this use of System.out or System.err by a logger.(›ñ©¿ûÿÿÿÿ8Î¡Å˜Ÿ.
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(ä¹¿“8ãï—Ÿ.
+=
+java:S3864G"!Remove this use of "Stream.peek".(Í’G8÷èñ—Ÿ.
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(›ñ©¿ûÿÿÿÿ8’°‡˜Ÿ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›ñ©¿ûÿÿÿÿ8î¤´—Ÿ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ü•µù8ÿÚ¶—Ÿ.
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.(›ñ©¿ûÿÿÿÿ8×½š˜Ÿ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¨âùóıÿÿÿÿ8î¤´—Ÿ.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(Ìæ±ÿÿÿÿÿ8¥Ê—Ÿ.
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8©óù—Ÿ.
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8à½ÿ—Ÿ.
+T	java:S106)"9Replace this use of System.out or System.err by a logger.(¶îB8—‚Å—Ÿ.
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(›ñ©¿ûÿÿÿÿ8¼İÊ—Ÿ.
+H
+java:S1612)",Replace this lambda with a method reference.(¶îB8—‚Å—Ÿ.
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(›ñ©¿ûÿÿÿÿ8³ÚÑ—Ÿ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ã‘†Á8¿š¹—Ÿ.
+T	java:S106G"9Replace this use of System.out or System.err by a logger.(Í’G8÷èñ—Ÿ.
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(›ñ©¿ûÿÿÿÿ8ÑëÕ—Ÿ.
+[	java:S106„"9Replace this use of System.out or System.err by a logger.(—²¾¢úÿÿÿÿ8‰É×˜Ÿ.
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8åûÏ—Ÿ.
+Z	java:S106v"9Replace this use of System.out or System.err by a logger.(›ñ©¿ûÿÿÿÿ8ÃÈÅ˜Ÿ.
+V	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(™ ß¶8»Œà˜Ÿ.
+H
+java:S1612G",Replace this lambda with a method reference.(Í’G8÷èñ—Ÿ.
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(›ñ©¿ûÿÿÿÿ8·ë—Ÿ.
+U	java:S106u"9Replace this use of System.out or System.err by a logger.(ˆõÙ8§¬À˜Ÿ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(çä¿†ùÿÿÿÿ8Â‰¬—Ÿ.
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8Æ˜Ÿ.
+w
+java:S1192"UDefine a constant instead of duplicating this literal "===================" 17 times.(›ñ©¿ûÿÿÿÿ8²áº—Ÿ.
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(›ñ©¿ûÿÿÿÿ8™º˜Ÿ.
+Z	java:S106h"9Replace this use of System.out or System.err by a logger.(¡çıĞúÿÿÿÿ8›á¤˜Ÿ.
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(¬¾¶½8àãÚ—Ÿ.
+N
+java:S1612'",Replace this lambda with a method reference.(¬Éó»øÿÿÿÿ8¼®Ã—Ÿ.
