@@ -1,0 +1,21 @@
+
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(¾Øª¡ıÿÿÿÿ8¿¤Ó¸¡.
+c
+java:S21420"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÜÊ‹¹¡.
+E
+java:S11483"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÜÊ‹¹¡.
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(²ÔŞ8¹Ô¹¡.
+a
+java:S1854 "DRemove this useless assignment to local variable "sumNotInParallel".(œ§ˆŠ8Åáâ¸¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(×Æáî8óÁÄ¸¡.
+R
+java:S1481 "5Remove this unused "sumNotInParallel" local variable.(œ§ˆŠ8Åáâ¸¡.
+f
+java:S21472"DCombine this catch with the one at line 48, which has the same body.(åşŒóùÿÿÿÿ8ÜÊ‹¹¡.
+E
+java:S11481"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÜÊ‹¹¡.
+0
+java:S1220""Move this file to a named package.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(÷·ŞÖüÿÿÿÿ8ÂóÏ¸¡.
+b	java:S1125"FDefine and throw a dedicated exception instead of using a generic one.(‚©Ø¶8…¹¡.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(„È­–8ßê¸¡.

@@ -1,0 +1,15 @@
+
+O
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8†º¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(öÙ”˜8¡êº¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ü§¦ä8”“Œº¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(öÙ”˜8”“Œº¡.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8²¥Œº¡.
+0
+java:S1220""Move this file to a named package.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ü§¦ä8¡êº¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ü§¦ä8ÕÔˆº¡.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(öÙ”˜8¬“‰º¡.
+q
+java:S1192"TDefine a constant instead of duplicating this literal "Persoane din baza: " 3 times.(ü§¦ä8¡êº¡.

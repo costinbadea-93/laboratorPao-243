@@ -1,0 +1,12 @@
+
+c
+java:S2142
+"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ôü¥¸¡.
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ï×§¸¡.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Ï×§¸¡.
+0
+java:S1220""Move this file to a named package.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Ôü¥¸¡.

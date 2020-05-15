@@ -1,0 +1,11 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Û¥¥»
+>
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+>
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.( ëÿß
+0
+java:S1220""Move this file to a named package.
+P
+java:S1161":Add the "@Override" annotation above this method signature(“–ýþ

@@ -1,0 +1,17 @@
+
+R
+java:S2446#"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8çÆ¸¡.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ï»à¿ùÿÿÿÿ8±²“¸¡.
+R
+java:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8û²”¸¡.
+e
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(€­íÜüÿÿÿÿ8„İ–¸¡.
+`
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(ßÃõøÿÿÿÿ8Äš¸¡.
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ñğ¸¡.
+U	java:S106""9Replace this use of System.out or System.err by a logger.(Í£Ä÷8çš¸¡.
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8µû˜¸¡.
+e
+java:S2276$"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(€­íÜüÿÿÿÿ8šò¸¡.
