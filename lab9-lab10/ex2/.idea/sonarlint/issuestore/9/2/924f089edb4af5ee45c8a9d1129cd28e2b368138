@@ -1,0 +1,12 @@
+
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(‡¼¯õùÿÿÿÿ8éñ™™Ÿ.
+E
+java:S11480"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8²äƒ™Ÿ.
+c
+java:S1075
+"ARefactor your code to get this URI from a customizable parameter.(‹Î¼Úşÿÿÿÿ8à†ò˜Ÿ.
+]
+java:S1193-"@Replace the usage of the "instanceof" operator by a catch block.(Ş²õ¿8Ëœ™Ÿ.
+U	java:S106."9Replace this use of System.out or System.err by a logger.(ü¢í8¿ñœ™Ÿ.
+Z
+java:S1481"8Remove this unused "dogListSerializable" local variable.(æø¬ÿÿÿÿÿ8û¸¼™Ÿ.
