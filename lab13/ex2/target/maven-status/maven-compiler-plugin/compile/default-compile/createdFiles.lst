@@ -1,0 +1,8 @@
+repository\BookRepository$SINGLETON_HOLDER.class
+servlets\AddBookServlet.class
+servlets\LoginServlet.class
+model\Book.class
+repository\BookRepository.class
+servlets\DeleteBookServlet.class
+servlets\ListBooksServlet.class
+repository\BookRepository$1.class
